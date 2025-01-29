@@ -1,5 +1,6 @@
-// In Layout.js
-export default function Layout() {
-    return <div>Layout</div>;
-  }
-  
+// File: client/src/components/layout/Footer.js
+import React from 'react';
+
+export default function Footer() {
+  return <div>Footer</div>;
+}
